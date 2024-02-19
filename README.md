@@ -1,5 +1,4 @@
 # Updated_Flat_norm
-I made a new GitHub repository because I couldn't figure out how to work GitHub's pull requests without being the creator of the repository and figured it might be easier to seperate all the code in a new spot anyways. 
 
 Updated code with Curtis Summer 2023
 
@@ -9,3 +8,5 @@ Still need:
 Tests for Edmond Karp Class, 
 Tests for Messing with mincut, 
 Tests for Voronoi class in 2D and 3D
+
+This repository was eventually abandonded and replaced by flat_norm_on_graphs as we rebuilt much of what exists here. This repository contains my reinvention of many wheels existing within Python packages such as NetworkX.
